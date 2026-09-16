@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
+| [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
