@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
