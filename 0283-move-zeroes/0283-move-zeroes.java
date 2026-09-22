@@ -2,6 +2,7 @@ class Solution {
     public void moveZeroes(int[] nums) {
         int n=nums.length;
         int i=0,j=0;
+        if(n==0||n==1) return;
         while(j<n){
             if(nums[j]!=0){
                 int temp=nums[j];
@@ -11,8 +12,6 @@ class Solution {
             }
             j++;
         }
-        for(int k:nums){
-            System.out.print(k+" ");
-        }
+        
     }
 }
