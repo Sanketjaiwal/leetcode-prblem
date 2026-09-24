@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
