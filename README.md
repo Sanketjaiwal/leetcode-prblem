@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -108,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
