@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0292-nim-game) |
 ## Brainteaser
 |  |
