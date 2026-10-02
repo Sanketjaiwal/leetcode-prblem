@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Quicksort
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0724-find-pivot-index) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
