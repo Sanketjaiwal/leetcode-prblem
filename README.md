@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
