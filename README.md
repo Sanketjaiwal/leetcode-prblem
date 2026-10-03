@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0434-number-of-segments-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
