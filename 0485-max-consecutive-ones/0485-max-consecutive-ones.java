@@ -6,8 +6,7 @@ class Solution {
                 consicative++;
             else
                 consicative=0;
-            if(max<consicative)
-            max=consicative;
+            max=Math.max(max,consicative);
         }
        return max; 
     }
