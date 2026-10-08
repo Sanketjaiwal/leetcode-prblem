@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0724-find-pivot-index) |
+| [0766-toeplitz-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0073-set-matrix-zeroes) |
+| [0766-toeplitz-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
