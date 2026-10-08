@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
@@ -107,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2390-removing-stars-from-a-string) |
