@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
 | ------- |
