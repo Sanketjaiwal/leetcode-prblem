@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
 | [2643-row-with-maximum-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0242-valid-anagram) |
+| [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Quicksort
 |  |
