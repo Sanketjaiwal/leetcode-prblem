@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0292-nim-game) |
+| [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
 ## Brainteaser
 |  |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,4 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2778-sum-of-squares-of-special-elements) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
