@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
+| [2235-add-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2235-add-two-integers) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 ## Brainteaser
 |  |
