@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
 ## Pigeonhole Principle
 |  |
 | ------- |
