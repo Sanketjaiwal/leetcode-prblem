@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0566-reshape-the-matrix) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0022-generate-parentheses) |
+| [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -309,4 +311,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0643-maximum-average-subarray-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
