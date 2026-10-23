@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1861-rotating-the-box](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Breadth-First Search
 |  |
 | ------- |
