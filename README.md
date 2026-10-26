@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0066-plus-one) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 ## Backtracking
