@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 ## Backtracking
