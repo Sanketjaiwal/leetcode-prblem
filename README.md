@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0344-reverse-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0268-missing-number) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0292-nim-game) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
