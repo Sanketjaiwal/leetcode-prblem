@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
+| [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2235-add-two-integers) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
+| [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
