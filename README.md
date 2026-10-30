@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1021-remove-outermost-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
