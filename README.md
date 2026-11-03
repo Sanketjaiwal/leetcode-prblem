@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2235-add-two-integers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3783-mirror-distance-of-an-integer) |
 | [3959-check-good-integer](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3959-check-good-integer) |
