@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
