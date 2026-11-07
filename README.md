@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0217-contains-duplicate) |
@@ -407,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
