@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1861-rotating-the-box](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1861-rotating-the-box) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 | [1861-rotating-the-box](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1861-rotating-the-box) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2643-row-with-maximum-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2643-row-with-maximum-ones) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0322-coin-change) |
+| [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -429,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0160-intersection-of-two-linked-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
