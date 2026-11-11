@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0239-sliding-window-maximum) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0268-missing-number) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 ## Recursion
@@ -391,11 +394,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
 ## Sliding Window
 |  |
@@ -452,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
