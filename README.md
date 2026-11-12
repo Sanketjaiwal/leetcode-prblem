@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1861-rotating-the-box) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
