@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3978-unique-middle-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3978-unique-middle-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0387-first-unique-character-in-a-string) |
 | [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 | [1748-sum-of-unique-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1748-sum-of-unique-elements) |
+| [3978-unique-middle-element](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3978-unique-middle-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
