@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2390-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3701-compute-alternating-sum) |
