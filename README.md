@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2553-separate-the-digits-in-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3498-reverse-degree-of-a-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
 | [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1688-count-of-matches-in-tournament) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2544-alternating-digit-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
