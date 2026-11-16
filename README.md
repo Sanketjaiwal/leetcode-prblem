@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Pigeonhole Principle
