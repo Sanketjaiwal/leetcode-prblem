@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3783-mirror-distance-of-an-integer) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3959-check-good-integer](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3959-check-good-integer) |
 ## Brainteaser
 |  |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0866-prime-palindrome) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Primality Test
 |  |
 | ------- |
