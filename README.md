@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2235-add-two-integers) |
 | [2544-alternating-digit-sum](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2544-alternating-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3536-maximum-product-of-two-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3783-mirror-distance-of-an-integer) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3731-find-missing-elements) |
 ## Quicksort
