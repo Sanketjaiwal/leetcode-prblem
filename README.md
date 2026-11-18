@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3783-mirror-distance-of-an-integer) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
