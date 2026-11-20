@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1328-break-a-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2390-removing-stars-from-a-string) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
+| [1328-break-a-palindrome](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1328-break-a-palindrome) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
