@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1267-count-servers-that-communicate) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1748-sum-of-unique-elements) |
 | [1861-rotating-the-box](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1861-rotating-the-box) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1913-maximum-product-difference-between-two-pairs) |
