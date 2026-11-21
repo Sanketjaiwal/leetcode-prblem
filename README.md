@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0766-toeplitz-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0645-set-mismatch) |
 | [1748-sum-of-unique-elements](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1748-sum-of-unique-elements) |
 | [2418-sort-the-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/2418-sort-the-people) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0645-set-mismatch](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/1486-xor-operation-in-an-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
