@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0342-power-of-four) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sanketjaiwal/leetcode-prblem/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
